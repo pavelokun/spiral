@@ -1,0 +1,9 @@
+export const SF_PRO_ROUNDED_BLACK = 'SFProRounded-Black';
+export const SF_PRO_ROUNDED_BOLD = 'SFProRounded-Bold';
+export const SF_PRO_ROUNDED_HEAVY = 'SFProRounded-Heavy';
+export const SF_PRO_ROUNDED_LIGHT = 'SFProRounded-Light';
+export const SF_PRO_ROUNDED_MEDIUM = 'SFProRounded-Medium';
+export const SF_PRO_ROUNDED_REGULAR = 'SFProRounded-Regular';
+export const SF_PRO_ROUNDED_SEMIBOLD = 'SFProRounded-Semibold';
+export const SF_PRO_ROUNDED_THIN = 'SFProRounded-Thin';
+export const SF_PRO_ROUNDED_ULTRALIGHT = 'SFProRounded-Ultralight';
